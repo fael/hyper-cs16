@@ -1,0 +1,22 @@
+{
+  "name": "hyper-cs16",
+  "version": "1.0.0",
+  "description": "Hyper theme inspired by CS 1.6 console",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@me.github.com:fael/hyper-cs16.git"
+  },
+  "keywords": [
+    "hyper",
+    "theme",
+    "counter-strike",
+    "cs",
+    "cs1.6"
+  ],
+  "author": "Rafael Santos Sá",
+  "license": "ISC"
+}
